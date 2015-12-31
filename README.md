@@ -1,0 +1,2 @@
+# earthmap
+display earthmap
